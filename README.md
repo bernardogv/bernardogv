@@ -29,7 +29,7 @@ Updated daily · [every PR →](https://bernardogv.com/upstream/)
 
 - **[comfyui-mcp](https://github.com/bernardogv/comfyui-mcp)**: 16-tool MCP server that drives a remote ComfyUI: graph-rewriting overrides, batching, curation, Python graph authoring.
 - **[proton-mcp-server](https://github.com/bernardogv/proton-mcp-server)**: email for AI agents over Proton Bridge, with preview-before-send guardrails.
-- **Homelab plugin**: a skill, slash commands, an operator subagent and an SSH MCP server with guardrails, gated by `claude plugin eval` suites on every release.
+- **[claude-homelab-plugin](https://github.com/bernardogv/claude-homelab-plugin)**: a skill, slash commands, an operator subagent and an SSH MCP server with guardrails, gated by `claude plugin eval` suites on every release.
 - **Local-model delegation**: Claude scopes and verifies; a coder model on a DGX Spark writes the code in an isolated worktree; tests that must fail first decide what gets committed.
 
 #### The lab
