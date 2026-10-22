@@ -7,15 +7,15 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 #### Upstream
 
 <!-- upstream:start -->
-**23 pull requests to 10 open-source repos, 9 merged.**
+**23 pull requests to 10 open-source repos, 10 merged.**
 
 | Project | Merged | Open | Latest |
 |---|---:|---:|---|
 | [llamastash/llamastash](https://github.com/llamastash/llamastash) | 4 | 0 | [fix(unit5): the vLLM UMA guard launches beside a tenant and reserves for the engine's own overhead](https://github.com/llamastash/llamastash/pull/81) |
 | [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 2 | 1 | [docs: extra_models_dir under /home needs a drop-in on deb/rpm](https://github.com/lemonade-sdk/lemonade/pull/3895) |
 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2 | 0 | [config: accept video as an input and output modality](https://github.com/mostlygeek/llama-swap/pull/1048) |
+| [ROCm/ROCmValidationSuite](https://github.com/ROCm/ROCmValidationSuite) | 1 | 4 | [ci: check out the PR head commit so fork PRs build](https://github.com/ROCm/ROCmValidationSuite/pull/1353) |
 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | 1 | 0 | [fix(rocjitsu): avoid a GCC 15 free-nonheap-object false positive in build_cfg](https://github.com/ROCm/rocm-systems/pull/13075) |
-| [ROCm/ROCmValidationSuite](https://github.com/ROCm/ROCmValidationSuite) | 0 | 5 | [ci: check out the PR head commit so fork PRs build](https://github.com/ROCm/ROCmValidationSuite/pull/1353) |
 | [bentoml/llm-optimizer](https://github.com/bentoml/llm-optimizer) | 0 | 3 | [fix: stop waiting when the server exits; add --server-timeout](https://github.com/bentoml/llm-optimizer/pull/31) |
 | [ROCm/TheRock](https://github.com/ROCm/TheRock) | 0 | 2 | [docs: add Ubuntu 26.04 notes to the environment setup guide](https://github.com/ROCm/TheRock/pull/8848) |
 | [FoggedLens/deflock-app](https://github.com/FoggedLens/deflock-app) | 0 | 1 | [fix(tiles): pause/cap tile retries when offline (#136)](https://github.com/FoggedLens/deflock-app/pull/189) |
