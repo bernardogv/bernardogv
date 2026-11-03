@@ -7,12 +7,12 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 #### Upstream
 
 <!-- upstream:start -->
-**25 pull requests to 11 open-source repos, 12 merged.**
+**25 pull requests to 11 open-source repos, 13 merged.**
 
 | Project | Merged | Open | Latest |
 |---|---:|---:|---|
 | [llamastash/llamastash](https://github.com/llamastash/llamastash) | 4 | 0 | [fix(unit5): the vLLM UMA guard launches beside a tenant and reserves for the engine's own overhead](https://github.com/llamastash/llamastash/pull/81) |
-| [ROCm/ROCmValidationSuite](https://github.com/ROCm/ROCmValidationSuite) | 2 | 3 | [ci: check out the PR head commit so fork PRs build](https://github.com/ROCm/ROCmValidationSuite/pull/1353) |
+| [ROCm/ROCmValidationSuite](https://github.com/ROCm/ROCmValidationSuite) | 3 | 2 | [ci: check out the PR head commit so fork PRs build](https://github.com/ROCm/ROCmValidationSuite/pull/1353) |
 | [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 2 | 1 | [docs: extra_models_dir under /home needs a drop-in on deb/rpm](https://github.com/lemonade-sdk/lemonade/pull/3895) |
 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2 | 0 | [config: accept video as an input and output modality](https://github.com/mostlygeek/llama-swap/pull/1048) |
 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | 1 | 0 | [fix(rocjitsu): avoid a GCC 15 free-nonheap-object false positive in build_cfg](https://github.com/ROCm/rocm-systems/pull/13075) |
