@@ -7,7 +7,7 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 #### Upstream
 
 <!-- upstream:start -->
-**25 pull requests to 11 open-source repos, 14 merged.**
+**25 pull requests to 11 open-source repos, 15 merged.**
 
 | Project | Merged | Open | Latest |
 |---|---:|---:|---|
@@ -16,12 +16,12 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 | [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 2 | 1 | [docs: extra_models_dir under /home needs a drop-in on deb/rpm](https://github.com/lemonade-sdk/lemonade/pull/3895) |
 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | 2 | 0 | [config: accept video as an input and output modality](https://github.com/mostlygeek/llama-swap/pull/1048) |
 | [ROCm/TheRock](https://github.com/ROCm/TheRock) | 1 | 1 | [docs: add Ubuntu 26.04 notes to the environment setup guide](https://github.com/ROCm/TheRock/pull/8848) |
+| [ROCm/libhipcxx](https://github.com/ROCm/libhipcxx) | 1 | 0 | [fix(ci): derive LLVM_PATH from ROCM_PATH instead of hardcoding /opt/rocm](https://github.com/ROCm/libhipcxx/pull/37) |
 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | 1 | 0 | [fix(rocjitsu): avoid a GCC 15 free-nonheap-object false positive in build_cfg](https://github.com/ROCm/rocm-systems/pull/13075) |
 | [rust-lang/stdarch](https://github.com/rust-lang/stdarch) | 1 | 0 | [amdgpu: document that ds_permute/ds_bpermute take a byte address](https://github.com/rust-lang/stdarch/pull/2258) |
 | [bentoml/llm-optimizer](https://github.com/bentoml/llm-optimizer) | 0 | 3 | [fix: stop waiting when the server exits; add --server-timeout](https://github.com/bentoml/llm-optimizer/pull/31) |
 | [ROCm/amd-anp](https://github.com/ROCm/amd-anp) | 0 | 2 | [Fix data races in shared-QP pool setup, comm table, and telemetry](https://github.com/ROCm/amd-anp/pull/35) |
 | [FoggedLens/deflock-app](https://github.com/FoggedLens/deflock-app) | 0 | 1 | [fix(tiles): pause/cap tile retries when offline (#136)](https://github.com/FoggedLens/deflock-app/pull/189) |
-| [ROCm/libhipcxx](https://github.com/ROCm/libhipcxx) | 0 | 1 | [fix(ci): derive LLVM_PATH from ROCM_PATH instead of hardcoding /opt/rocm](https://github.com/ROCm/libhipcxx/pull/37) |
 <!-- upstream:end -->
 
 Updated daily · [every PR →](https://bernardogv.com/upstream/)
