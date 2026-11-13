@@ -7,7 +7,7 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 #### Upstream
 
 <!-- upstream:start -->
-**25 pull requests to 11 open-source repos, 15 merged.**
+**27 pull requests to 12 open-source repos, 15 merged.**
 
 | Project | Merged | Open | Latest |
 |---|---:|---:|---|
@@ -20,6 +20,7 @@ MTS Product Application Engineer at AMD, validating AI infrastructure. On my own
 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | 1 | 0 | [fix(rocjitsu): avoid a GCC 15 free-nonheap-object false positive in build_cfg](https://github.com/ROCm/rocm-systems/pull/13075) |
 | [rust-lang/stdarch](https://github.com/rust-lang/stdarch) | 1 | 0 | [amdgpu: document that ds_permute/ds_bpermute take a byte address](https://github.com/rust-lang/stdarch/pull/2258) |
 | [bentoml/llm-optimizer](https://github.com/bentoml/llm-optimizer) | 0 | 3 | [fix: stop waiting when the server exits; add --server-timeout](https://github.com/bentoml/llm-optimizer/pull/31) |
+| [ROCm/TransferBench](https://github.com/ROCm/TransferBench) | 0 | 2 | [Fix parser and env-var inputs that crash or are silently accepted](https://github.com/ROCm/TransferBench/pull/369) |
 | [ROCm/amd-anp](https://github.com/ROCm/amd-anp) | 0 | 2 | [Fix data races in shared-QP pool setup, comm table, and telemetry](https://github.com/ROCm/amd-anp/pull/35) |
 | [FoggedLens/deflock-app](https://github.com/FoggedLens/deflock-app) | 0 | 1 | [fix(tiles): pause/cap tile retries when offline (#136)](https://github.com/FoggedLens/deflock-app/pull/189) |
 <!-- upstream:end -->
